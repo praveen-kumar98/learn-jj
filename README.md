@@ -1,3 +1,3 @@
 # Jujutsu Tutorial
 
-- This is a conflicted line.
+- Awesome line added by teammate.
